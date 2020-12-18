@@ -6,3 +6,8 @@
   min-height: 100%;
   z-index: -1;
 }
+
+.white{
+	color: white !important;
+	font-size: 32 !important;
+}
